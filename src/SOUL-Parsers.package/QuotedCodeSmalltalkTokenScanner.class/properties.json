@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Scanner",
+	"category" : "SOUL-Parsers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"QuotedCodeTypeTable"
+	],
+	"instvars" : [ ],
+	"name" : "QuotedCodeSmalltalkTokenScanner",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBPatternParser",
+	"category" : "SOUL-Parsers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SoulRBPatternParser",
+	"type" : "normal"
+}

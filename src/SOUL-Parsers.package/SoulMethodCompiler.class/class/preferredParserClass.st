@@ -1,0 +1,4 @@
+defaults
+preferredParserClass
+	
+	^self

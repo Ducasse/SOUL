@@ -1,0 +1,4 @@
+testing
+functorMatchesMultiplicity
+	
+	^true

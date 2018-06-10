@@ -1,0 +1,4 @@
+printing
+displayString
+	
+	^smalltalkValue displayString

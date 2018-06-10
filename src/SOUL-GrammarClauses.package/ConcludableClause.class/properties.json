@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HornClause",
+	"category" : "SOUL-GrammarClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"conclusion"
+	],
+	"name" : "ConcludableClause",
+	"type" : "normal"
+}

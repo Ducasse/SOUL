@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NativeClause",
+	"category" : "SOUL-NativeClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OrClause",
+	"type" : "normal"
+}

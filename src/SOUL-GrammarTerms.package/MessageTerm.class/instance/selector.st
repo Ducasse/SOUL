@@ -1,0 +1,4 @@
+access
+selector
+	
+	^functor name

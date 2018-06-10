@@ -1,0 +1,4 @@
+slgtesting
+isSLGEquivalentToVariable: aVariable
+	
+	^false

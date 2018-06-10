@@ -1,0 +1,4 @@
+slgtesting
+isSLGEquivalentToTermSequence: aTermSequence
+	
+	^false

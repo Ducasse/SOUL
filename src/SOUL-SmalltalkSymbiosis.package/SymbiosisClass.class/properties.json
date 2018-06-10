@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SymbiosisPreClass",
+	"category" : "SOUL-SmalltalkSymbiosis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SymbiosisClass",
+	"type" : "normal"
+}

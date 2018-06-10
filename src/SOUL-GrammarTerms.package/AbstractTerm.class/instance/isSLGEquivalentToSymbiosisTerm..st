@@ -1,0 +1,4 @@
+slgtesting
+isSLGEquivalentToSymbiosisTerm: aSymbiosisTerm
+	
+	^false

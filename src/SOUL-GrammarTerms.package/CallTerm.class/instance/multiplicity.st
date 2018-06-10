@@ -1,0 +1,4 @@
+access
+multiplicity
+	
+	^normalterm multiplicity

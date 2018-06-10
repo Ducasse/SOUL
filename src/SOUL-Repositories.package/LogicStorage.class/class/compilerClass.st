@@ -1,0 +1,4 @@
+compilation support
+compilerClass
+	
+	^SoulMethodCompiler

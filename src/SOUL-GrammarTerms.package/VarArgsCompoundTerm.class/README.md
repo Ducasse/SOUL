@@ -1,0 +1,1 @@
+This class represents a compoundterm that has a variable-length argument list. 

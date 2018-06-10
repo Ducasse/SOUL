@@ -1,0 +1,4 @@
+converting
+smalltalkBlockString
+	
+	^'''' , self asString , ''''

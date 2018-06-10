@@ -1,0 +1,4 @@
+access
+multiplicity
+	
+	^term multiplicity

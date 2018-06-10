@@ -1,0 +1,4 @@
+testing
+isUppedObject
+	
+	^true

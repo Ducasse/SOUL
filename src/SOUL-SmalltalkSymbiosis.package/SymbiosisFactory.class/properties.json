@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "StandardSoulFactory",
+	"category" : "SOUL-SmalltalkSymbiosis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SymbiosisFactory",
+	"type" : "normal"
+}

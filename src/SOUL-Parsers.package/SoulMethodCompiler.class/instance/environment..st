@@ -1,0 +1,4 @@
+compilation
+environment: dontCare
+	
+	^nil

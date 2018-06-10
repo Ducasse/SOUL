@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractTerm",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"address",
+		"name"
+	],
+	"name" : "Variable",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+generated
+startingStateForQUOTEDCODE
+	^ 1

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBSoulVariableNode",
+	"category" : "SOUL-Parsers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBDelayedSoulVariableNode",
+	"type" : "normal"
+}

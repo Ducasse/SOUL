@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TabledRuleTransformer",
+	"category" : "SOUL-GrammarClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TabledRuleSLGCallTransformer",
+	"type" : "normal"
+}

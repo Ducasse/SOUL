@@ -1,0 +1,4 @@
+slgtesting
+isSLGEquivalentToEmptyList: anEmptyListConstant
+	
+	^false

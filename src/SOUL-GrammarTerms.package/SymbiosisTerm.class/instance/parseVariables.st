@@ -1,0 +1,4 @@
+private
+parseVariables
+	
+	self subclassResponsibility

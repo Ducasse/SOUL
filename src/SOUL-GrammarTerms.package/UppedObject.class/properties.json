@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ResolvableTerm",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"smalltalkValue"
+	],
+	"name" : "UppedObject",
+	"type" : "normal"
+}

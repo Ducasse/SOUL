@@ -1,0 +1,4 @@
+accessing
+multiplicity
+	
+	self subclassResponsibility

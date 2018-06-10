@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleTermVisitor",
+	"category" : "SOUL-Repositories",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"database"
+	],
+	"name" : "LexicalAddressVisitor",
+	"type" : "normal"
+}

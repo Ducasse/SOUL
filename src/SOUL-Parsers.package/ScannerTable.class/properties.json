@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Array",
+	"category" : "SOUL-Parsers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value0",
+		"defaultValue",
+		"letterValue",
+		"digitValue",
+		"separatorValue"
+	],
+	"name" : "ScannerTable",
+	"type" : "variable"
+}

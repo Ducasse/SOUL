@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ConcludableClause",
+	"category" : "SOUL-GrammarClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Fact",
+	"type" : "normal"
+}

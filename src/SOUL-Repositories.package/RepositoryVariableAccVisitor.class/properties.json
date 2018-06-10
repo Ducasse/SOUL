@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleTermVisitor",
+	"category" : "SOUL-Repositories",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"variables"
+	],
+	"name" : "RepositoryVariableAccVisitor",
+	"type" : "normal"
+}

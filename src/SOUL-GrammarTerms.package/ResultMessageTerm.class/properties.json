@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ResolvableTerm",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messageTerm",
+		"resultTerm"
+	],
+	"name" : "ResultMessageTerm",
+	"type" : "normal"
+}

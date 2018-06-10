@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ResolvableTerm",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"block",
+		"variables",
+		"content"
+	],
+	"name" : "SymbiosisTerm",
+	"type" : "normal"
+}

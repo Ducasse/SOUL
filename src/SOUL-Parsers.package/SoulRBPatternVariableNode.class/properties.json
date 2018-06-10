@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBPatternVariableNode",
+	"category" : "SOUL-Parsers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SoulRBPatternVariableNode",
+	"type" : "normal"
+}

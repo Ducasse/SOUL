@@ -1,0 +1,3 @@
+generated
+binarysymbolId
+	^ 26

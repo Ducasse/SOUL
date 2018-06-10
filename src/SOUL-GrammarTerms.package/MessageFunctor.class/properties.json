@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MultiPartFunctor",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MessageFunctor",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+signal constants
+errorSignal
+	
+	^SoulError

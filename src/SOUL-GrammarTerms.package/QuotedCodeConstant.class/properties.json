@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Constant",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "QuotedCodeConstant",
+	"type" : "normal"
+}

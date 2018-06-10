@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HornClause",
+	"category" : "SOUL-GrammarClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"variables"
+	],
+	"name" : "Query",
+	"type" : "normal"
+}

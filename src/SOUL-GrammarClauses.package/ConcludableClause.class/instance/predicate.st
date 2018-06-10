@@ -1,0 +1,4 @@
+access
+predicate
+	
+	^conclusion predicate

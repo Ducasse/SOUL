@@ -1,0 +1,4 @@
+access
+multiplicity
+	
+	^conclusion multiplicity

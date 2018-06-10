@@ -1,0 +1,4 @@
+testing
+isHiddenVariable
+	
+	^true

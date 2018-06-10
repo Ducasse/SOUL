@@ -1,0 +1,3 @@
+generated
+compoundId
+	^ 6

@@ -1,0 +1,4 @@
+access
+innerTerm
+	
+	^term innerTerm

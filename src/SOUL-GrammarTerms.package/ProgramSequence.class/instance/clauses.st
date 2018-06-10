@@ -1,0 +1,4 @@
+access
+clauses
+	
+	^collection

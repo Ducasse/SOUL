@@ -1,0 +1,4 @@
+slgtesting
+isSLGEquivalentToUppedObject: anUppedObject
+	
+	^false

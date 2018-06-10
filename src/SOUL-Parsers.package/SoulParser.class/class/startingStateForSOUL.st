@@ -1,0 +1,3 @@
+generated
+startingStateForSOUL
+	^ 1

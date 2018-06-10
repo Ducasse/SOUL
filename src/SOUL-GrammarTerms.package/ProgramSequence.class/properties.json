@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TermSequence",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProgramSequence",
+	"type" : "normal"
+}

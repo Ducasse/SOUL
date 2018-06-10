@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MessageTerm",
+	"category" : "SOUL-SmalltalkSymbiosis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SymbioticMessageTerm",
+	"type" : "normal"
+}

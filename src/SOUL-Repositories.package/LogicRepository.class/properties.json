@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "SOUL-Repositories",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clauseArray",
+		"addressForPredicate",
+		"currentAddress",
+		"maxAddress",
+		"fromLayers",
+		"repositoryVariables",
+		"exports",
+		"storageChanged",
+		"name",
+		"compilationFactory",
+		"tabledRules",
+		"callGraph",
+		"additionalClauses"
+	],
+	"name" : "LogicRepository",
+	"type" : "normal"
+}

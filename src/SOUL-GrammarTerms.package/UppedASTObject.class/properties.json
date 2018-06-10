@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "UppedObject",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UppedASTObject",
+	"type" : "normal"
+}

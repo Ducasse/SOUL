@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Rule",
+	"category" : "SOUL-GrammarClauses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCGRule",
+	"type" : "normal"
+}

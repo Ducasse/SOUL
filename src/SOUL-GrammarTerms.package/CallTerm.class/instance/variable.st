@@ -1,0 +1,4 @@
+access
+variable
+	
+	^variable

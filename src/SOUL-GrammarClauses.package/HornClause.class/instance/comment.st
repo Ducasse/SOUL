@@ -1,0 +1,4 @@
+access
+comment
+	
+	^comment ifNil: ['']

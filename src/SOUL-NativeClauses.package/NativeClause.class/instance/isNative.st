@@ -1,0 +1,4 @@
+access
+isNative
+	
+	^true

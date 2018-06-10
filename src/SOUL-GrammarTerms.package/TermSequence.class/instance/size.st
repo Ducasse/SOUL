@@ -1,0 +1,4 @@
+access
+size
+	
+	^collection size

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractTerm",
+	"category" : "SOUL-GrammarTerms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lexicalAddress"
+	],
+	"name" : "ResolvableTerm",
+	"type" : "normal"
+}

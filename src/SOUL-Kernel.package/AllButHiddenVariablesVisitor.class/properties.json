@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "VariableAndUnderscoreVariableVisitor",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AllButHiddenVariablesVisitor",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+terms
+makeList
+	
+	^self subclassResponsibility

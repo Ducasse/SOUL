@@ -1,0 +1,4 @@
+repository
+makeRepository
+	
+	^self subclassResponsibility

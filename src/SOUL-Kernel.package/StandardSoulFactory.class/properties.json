@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SoulFactory",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "StandardSoulFactory",
+	"type" : "normal"
+}

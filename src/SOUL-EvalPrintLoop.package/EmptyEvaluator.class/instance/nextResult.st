@@ -1,0 +1,4 @@
+evaluation
+nextResult
+	
+	^self allResults

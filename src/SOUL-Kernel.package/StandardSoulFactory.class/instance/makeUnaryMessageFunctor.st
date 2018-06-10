@@ -1,0 +1,4 @@
+terms
+makeUnaryMessageFunctor
+	
+	^UnaryMessageFunctor

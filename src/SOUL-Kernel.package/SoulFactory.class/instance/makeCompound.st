@@ -1,0 +1,4 @@
+terms
+makeCompound
+	
+	^self subclassResponsibility

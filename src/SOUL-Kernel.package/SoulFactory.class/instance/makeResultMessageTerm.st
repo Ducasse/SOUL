@@ -1,0 +1,4 @@
+terms
+makeResultMessageTerm
+	
+	^self subclassResponsibility

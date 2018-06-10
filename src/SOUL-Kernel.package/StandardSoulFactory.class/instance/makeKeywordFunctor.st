@@ -1,0 +1,4 @@
+terms
+makeKeywordFunctor
+	
+	^KeywordFunctor

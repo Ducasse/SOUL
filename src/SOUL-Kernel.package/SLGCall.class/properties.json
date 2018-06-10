@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [
+		"continuationQuery",
+		"negativeQuery"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callTerm",
+		"waitingNodes",
+		"cid",
+		"answers",
+		"evaluator",
+		"plink",
+		"nlink",
+		"comp",
+		"dfn",
+		"negativeWaitingNodes",
+		"slgQuery",
+		"continuationQuery",
+		"negativeQuery"
+	],
+	"name" : "SLGCall",
+	"type" : "normal"
+}

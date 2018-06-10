@@ -1,0 +1,4 @@
+hornClauses
+makeRule
+	
+	^self subclassResponsibility

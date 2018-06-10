@@ -1,0 +1,4 @@
+parser
+makeQuotedCodeParser
+	
+	^self subclassResponsibility

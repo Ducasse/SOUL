@@ -1,0 +1,4 @@
+evaluators
+evaluatorForTemplateCompilation
+	
+	^self evaluatorForLogicQuery

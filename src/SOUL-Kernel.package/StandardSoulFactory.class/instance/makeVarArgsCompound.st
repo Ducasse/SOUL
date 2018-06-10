@@ -1,0 +1,4 @@
+terms
+makeVarArgsCompound
+	
+	^VarArgsCompoundTerm

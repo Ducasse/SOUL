@@ -1,0 +1,4 @@
+kernel
+makeStack
+	
+	^self subclassResponsibility

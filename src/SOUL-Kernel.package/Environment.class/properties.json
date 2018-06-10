@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"variableArray",
+		"bindingArray",
+		"bindingIndex",
+		"bindingRollbackIndex",
+		"variableRollbackIndex",
+		"variableIndex",
+		"variableMax",
+		"bindingMax",
+		"callStack",
+		"currentFrame"
+	],
+	"name" : "Environment",
+	"type" : "normal"
+}

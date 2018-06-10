@@ -1,0 +1,4 @@
+*SOUL-Kernel
+isNumber
+	
+	^false

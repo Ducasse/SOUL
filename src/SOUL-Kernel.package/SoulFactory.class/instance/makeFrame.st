@@ -1,0 +1,4 @@
+kernel
+makeFrame
+	
+	^self subclassResponsibility

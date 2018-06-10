@@ -1,0 +1,4 @@
+kernel
+makeResolutionResult
+	
+	^self subclassResponsibility

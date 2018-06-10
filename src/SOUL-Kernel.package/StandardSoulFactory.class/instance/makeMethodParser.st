@@ -1,0 +1,4 @@
+parsers
+makeMethodParser
+	
+	^SoulMethodCompiler

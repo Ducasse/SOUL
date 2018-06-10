@@ -1,0 +1,4 @@
+kernel
+makeBinding
+	
+	^self subclassResponsibility

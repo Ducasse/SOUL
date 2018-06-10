@@ -1,0 +1,4 @@
+printing
+displayString
+	
+	^self basicResultText

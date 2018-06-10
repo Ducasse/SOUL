@@ -1,0 +1,4 @@
+terms
+makeEmptyList
+	
+	^EmptyListConstant

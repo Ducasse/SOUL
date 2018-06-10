@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SimpleTermVisitor",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"doBlock"
+	],
+	"name" : "NamedVariableVisitor",
+	"type" : "normal"
+}

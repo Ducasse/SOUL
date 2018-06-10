@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SoulError",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SoulRuntimeException",
+	"type" : "normal"
+}

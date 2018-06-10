@@ -1,0 +1,4 @@
+terms
+makeTermSequence
+	
+	^self subclassResponsibility

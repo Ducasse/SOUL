@@ -1,0 +1,4 @@
+hornClauses
+makeQuery
+	
+	^self subclassResponsibility

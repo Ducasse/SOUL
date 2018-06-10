@@ -1,0 +1,4 @@
+terms
+makeAnnotatedTerm
+	
+	^self subclassResponsibility

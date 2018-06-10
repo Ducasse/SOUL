@@ -1,0 +1,4 @@
+terms
+makeQuotedCodeTerm
+	
+	^self subclassResponsibility

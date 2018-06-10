@@ -1,0 +1,4 @@
+accessing
+negativeQuery
+	
+	^negativeQuery

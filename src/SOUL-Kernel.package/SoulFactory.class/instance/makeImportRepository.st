@@ -1,0 +1,4 @@
+repository
+makeImportRepository
+	
+	^self subclassResponsibility

@@ -1,0 +1,4 @@
+accessing
+maxIndex
+	
+	^counter

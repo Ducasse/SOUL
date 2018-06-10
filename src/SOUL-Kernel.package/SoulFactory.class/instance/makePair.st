@@ -1,0 +1,4 @@
+terms
+makePair
+	
+	^self subclassResponsibility

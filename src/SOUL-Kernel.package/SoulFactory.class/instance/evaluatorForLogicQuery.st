@@ -1,0 +1,4 @@
+evaluators
+evaluatorForLogicQuery
+	
+	^self subclassResponsibility

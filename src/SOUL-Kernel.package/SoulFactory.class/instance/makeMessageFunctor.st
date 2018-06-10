@@ -1,0 +1,4 @@
+terms
+makeMessageFunctor
+	
+	^self subclassResponsibility

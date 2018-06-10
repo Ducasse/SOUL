@@ -1,0 +1,4 @@
+terms
+makePosVariable
+	
+	^self subclassResponsibility

@@ -1,0 +1,4 @@
+terms
+makeHiddenVariable
+	
+	^self subclassResponsibility

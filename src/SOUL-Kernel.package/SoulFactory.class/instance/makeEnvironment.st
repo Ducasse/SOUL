@@ -1,0 +1,4 @@
+kernel
+makeEnvironment
+	
+	^self subclassResponsibility

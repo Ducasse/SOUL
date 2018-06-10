@@ -8,10 +8,12 @@ baseline: spec
 					repository: 'github://ThierryGoubier/SmaCC'
 					"repository: 'github://Ducasse/OldSmaccRuntime/src' "
 					].
-				]
-		"spec
-			package: 'Citezen-Model';
-			package: 'Citezen-Parsers' with: [ spec requires: #('Citezen-Model' 'SmaCC')];
+				].
+		spec
+			package: 'SOUL-Kernel';
+			package: 'SOUL-EvalPrintLoop'.
+			
+		"	 with: [ spec requires: #('Citezen-Model' 'SmaCC')];
 			package: 'Citezen-Rendering' with: [ spec requires: 'Citezen-Model' ];
 			package: 'Citezen-Tools' with: [ spec requires: 'Citezen-Model' ];
 			package: 'Citezen-Query' with: [ spec requires: 'Citezen-Model'];

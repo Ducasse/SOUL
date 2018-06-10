@@ -1,0 +1,4 @@
+terms
+makeKeywordFunctor
+	
+	^self subclassResponsibility

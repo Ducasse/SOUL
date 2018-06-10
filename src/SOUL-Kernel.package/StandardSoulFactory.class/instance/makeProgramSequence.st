@@ -1,0 +1,4 @@
+hornClauses
+makeProgramSequence
+	
+	^ProgramSequence

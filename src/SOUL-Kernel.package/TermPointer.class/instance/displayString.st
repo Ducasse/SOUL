@@ -1,0 +1,4 @@
+printing
+displayString
+	
+	^term displayString

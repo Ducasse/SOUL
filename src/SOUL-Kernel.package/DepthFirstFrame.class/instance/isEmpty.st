@@ -1,0 +1,4 @@
+access
+isEmpty
+	
+	^conditionsList == nil

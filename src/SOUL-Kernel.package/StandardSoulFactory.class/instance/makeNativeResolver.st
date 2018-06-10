@@ -1,0 +1,4 @@
+kernel
+makeNativeResolver
+	
+	^NativeResolver

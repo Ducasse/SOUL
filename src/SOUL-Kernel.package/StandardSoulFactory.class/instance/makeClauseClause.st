@@ -1,0 +1,4 @@
+native clauses
+makeClauseClause
+	
+	^ClauseClause

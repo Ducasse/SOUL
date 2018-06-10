@@ -1,0 +1,4 @@
+access
+isEmpty
+	
+	^self subclassResponsibility

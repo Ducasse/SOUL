@@ -1,0 +1,4 @@
+terms
+makeSmalltalkTerm
+	
+	^self subclassResponsibility

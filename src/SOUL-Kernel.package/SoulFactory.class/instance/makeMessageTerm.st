@@ -1,0 +1,4 @@
+terms
+makeMessageTerm
+	
+	^self subclassResponsibility

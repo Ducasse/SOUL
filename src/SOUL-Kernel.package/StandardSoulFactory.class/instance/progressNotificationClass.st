@@ -1,0 +1,4 @@
+progress notification
+progressNotificationClass
+	
+	^Notice

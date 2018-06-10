@@ -1,0 +1,4 @@
+kernel
+makeChoiceFrame
+	
+	^self subclassResponsibility

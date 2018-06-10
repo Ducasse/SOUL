@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Resolver",
+	"category" : "SOUL-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"block",
+		"args",
+		"pos",
+		"argsSize"
+	],
+	"name" : "NativeResolver",
+	"type" : "normal"
+}

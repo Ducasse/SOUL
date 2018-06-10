@@ -1,0 +1,4 @@
+kernel
+makeRuleSelector
+	
+	^self subclassResponsibility

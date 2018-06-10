@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SOUL-EvalPrintLoop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ruleselector",
+		"query",
+		"allResults",
+		"lastResultCollection",
+		"lastTime"
+	],
+	"name" : "SoulEvaluator",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+native clauses
+makeEnvLookupClause
+	
+	^EnvLookupClause

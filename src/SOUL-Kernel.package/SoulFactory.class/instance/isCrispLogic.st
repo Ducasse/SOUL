@@ -1,0 +1,4 @@
+testing
+isCrispLogic
+	
+	^self subclassResponsibility

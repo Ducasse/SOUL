@@ -1,0 +1,4 @@
+terms
+makeVariable
+	
+	^self subclassResponsibility

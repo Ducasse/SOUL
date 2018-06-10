@@ -1,0 +1,4 @@
+hornClauses
+makeCut
+	
+	^Cut

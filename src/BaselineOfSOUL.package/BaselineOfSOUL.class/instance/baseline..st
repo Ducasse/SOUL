@@ -11,7 +11,18 @@ baseline: spec
 				].
 		spec
 			package: 'SOUL-Kernel';
-			package: 'SOUL-EvalPrintLoop'.
+			package: 'SOUL-EvalPrintLoop';
+			package: 'SOUL-Parsers';
+			package: 'SOUL-GrammarClauses';
+			package: 'SOUL-GrammarTerms';
+			package: 'SOUL-NativeClauses';
+			package: 'SOUL-Repositories';
+			package: 'SOUL-SmalltalkSymbiosis'
+			.
+			
+		spec
+			group: 'default' 
+			with: #('SOUL-Kernel' 'SOUL-EvalPrintLoop' 'SOUL-Parsers' 'SOUL-GrammarClauses' 'SOUL-GrammarTerms' 'SOUL-NativeClauses' 'SOUL-Repositories' 'SOUL-SmalltalkSymbiosis').
 			
 		"	 with: [ spec requires: #('Citezen-Model' 'SmaCC')];
 			package: 'Citezen-Rendering' with: [ spec requires: 'Citezen-Model' ];

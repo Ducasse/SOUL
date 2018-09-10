@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"existsM1" : "sp 24/10/11 15:26",
+		"constrainM2" : "sp 24/10/11 15:26",
+		"slgM1" : "AndyKellens 11/2/2011 09:58",
+		"applyM2" : "sp 24/10/11 15:26",
+		"caseQ" : "sp 24/10/11 15:26",
+		"ifThenElseM3" : "sp 24/10/11 15:26",
+		"foreachM2" : "sp 24/10/11 15:26",
+		"forallM3" : "sp 24/10/11 15:26",
+		"findallM3" : "AndyKellens 11/2/2011 09:58",
+		"forallM1" : "sp 24/10/11 15:26",
+		"existsM2" : "sp 24/10/11 15:26",
+		"oneM1" : "sp 24/10/11 15:26",
+		"nodupM1" : "sp 24/10/11 15:26",
+		"exactlyOneM1" : "sp 24/10/11 15:26",
+		"doM1" : "sp 24/10/11 15:26",
+		"slgnotM5" : "AndyKellens 11/2/2011 09:58",
+		"filterDupsM2" : "sp 24/10/11 15:26",
+		"xorM2" : "sp 24/10/11 15:26",
+		"answerM3" : "AndyKellens 11/3/2011 10:28",
+		"forallM2" : "sp 24/10/11 15:26",
+		"failsM1" : "sp 24/10/11 15:26",
+		"countM2" : "sp 24/10/11 15:26",
+		"slgcallM5" : "AndyKellens 11/2/2011 09:58",
+		"succeedsM1" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testCorrectFailure" : "sp 24/10/11 15:26",
+		"tearDown" : "AndyKellens 10/28/2011 10:56",
+		"setUp" : "AndyKellens 11/2/2011 09:53",
+		"testSmalltalk2Soul" : "sp 24/10/11 15:26",
+		"testSoul2Smalltalk" : "AndyKellens 10/28/2011 13:35"
+	},
+	"class" : { }
+}

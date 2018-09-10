@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"caseCount" : "sp 24/10/11 15:26",
+		"keepTime:forClass:" : "sp 24/10/11 15:26",
+		"output:took:" : "sp 24/10/11 15:26",
+		"afterCaseDo:" : "sp 24/10/11 15:26",
+		"beforeCaseDo:" : "sp 24/10/11 15:26",
+		"addToCurrentCaseCount:" : "sp 24/10/11 15:26",
+		"outputTotalResult" : "sp 24/10/11 15:26",
+		"ranQuery:description:" : "sp 24/10/11 15:26",
+		"resetCaseCount" : "sp 24/10/11 15:26",
+		"resetTimings" : "sp 24/10/11 15:26",
+		"totalResult" : "sp 24/10/11 15:26",
+		"totalsForClasses" : "sp 24/10/11 15:26",
+		"afterQuery:description:" : "sp 24/10/11 15:26",
+		"outputClassResults" : "sp 24/10/11 15:26",
+		"runCase:do:" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

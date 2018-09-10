@@ -1,0 +1,39 @@
+{
+	"instance" : {
+		"testnot" : "sp 24/10/11 15:26",
+		"testListCollectionUnification" : "sp 24/10/11 15:26",
+		"testQuotedCode" : "sp 24/10/11 15:26",
+		"testPositiveVariables" : "sp 24/10/11 15:26",
+		"testenvLookup" : "sp 24/10/11 15:26",
+		"testPrintAndParse" : "sp 24/10/11 15:26",
+		"testNestedFindall" : "sp 24/10/11 15:26",
+		"should:translateAs:" : "sp 24/10/11 15:26",
+		"testPrologTranslation" : "sp 24/10/11 15:26",
+		"testclause" : "sp 24/10/11 15:26",
+		"testgetEnv" : "sp 24/10/11 15:26",
+		"testConversion" : "sp 24/10/11 15:26",
+		"testBasicRecursion" : "sp 24/10/11 15:26",
+		"testDynamicPredicate" : "sp 24/10/11 15:26",
+		"testCut" : "sp 24/10/11 15:26",
+		"testList" : "sp 24/10/11 15:26",
+		"testSmalltalkTerms" : "sp 24/10/11 15:26",
+		"testVariablesAsConditions" : "sp 24/10/11 15:26",
+		"testScoping" : "AndyKellens 11/2/2011 09:53",
+		"testVarArgsCompoundWithMessageFunctors" : "AndyKellens 10/28/2011 15:52",
+		"assertRepresentationPrintsAndParsesSanely:" : "AndyKellens 11/2/2011 09:53",
+		"testVariableFunctor" : "sp 24/10/11 15:26",
+		"should:printAs:" : "AndyKellens 11/2/2011 09:53",
+		"testUnboundLookupLoop" : "sp 24/10/11 15:26",
+		"assertExpressionPrintsAndParsesSanely:" : "AndyKellens 11/2/2011 09:53",
+		"testgetRepository" : "sp 24/10/11 15:26",
+		"testPrintAndParseExtensively" : "sp 24/10/11 15:26",
+		"testFactsInMultipleClasses" : "sp 24/10/11 15:26",
+		"testPrint" : "AndyKellens 7/31/2012 13:07",
+		"testNegativeVariables" : "sp 24/10/11 15:26",
+		"testConstants" : "sp 24/10/11 15:26"
+	},
+	"class" : {
+		"testRepository" : "sp 24/10/11 15:26",
+		"testRepository:" : "sp 24/10/11 15:26"
+	}
+}

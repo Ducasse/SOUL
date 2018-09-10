@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LogicTests",
+	"category" : "SOUL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LogicSLGTests",
+	"type" : "normal"
+}

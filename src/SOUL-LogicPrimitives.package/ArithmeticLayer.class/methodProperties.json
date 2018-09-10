@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"numberM1" : "sp 24/10/11 15:26",
+		"add1M2" : "sp 24/10/11 15:26",
+		"productM3" : "sp 24/10/11 15:26",
+		"smallerOrEqualM2" : "sp 24/10/11 15:26",
+		"strictPositiveIntegerM1" : "sp 24/10/11 15:26",
+		"zeroM1" : "sp 24/10/11 15:26",
+		"integerM1" : "sp 24/10/11 15:26",
+		"subM3" : "sp 24/10/11 15:26",
+		"greaterOrEqualM2" : "sp 24/10/11 15:26",
+		"comparableM2" : "sp 24/10/11 15:26",
+		"smallerM2" : "sp 24/10/11 15:26",
+		"positiveIntegerM1" : "sp 24/10/11 15:26",
+		"greaterM2" : "sp 24/10/11 15:26",
+		"addM3" : "sp 24/10/11 15:26",
+		"sub1M2" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

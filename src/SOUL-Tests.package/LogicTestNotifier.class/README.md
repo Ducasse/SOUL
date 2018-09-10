@@ -1,0 +1,1 @@
+Timing information can be gathered while running the QSoul unit tests. This class implements the timing notifications that are sent by the tests (by virtue of the class QSOULLogicTests). Subclasses can override this to calculate sums, display information, save information, etc.

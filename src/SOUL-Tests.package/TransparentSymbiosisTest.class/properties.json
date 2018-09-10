@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "LogicTests",
+	"category" : "SOUL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldFactory"
+	],
+	"name" : "TransparentSymbiosisTest",
+	"type" : "normal"
+}

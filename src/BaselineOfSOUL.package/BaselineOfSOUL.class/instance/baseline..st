@@ -6,44 +6,25 @@ baseline: spec
 		spec baseline: 'SmaCC' with: [
 				spec
 					repository: 'github://ThierryGoubier/SmaCC'
-					"repository: 'github://Ducasse/OldSmaccRuntime/src' "
 					].
 				].
 		spec
 			package: 'SOUL-Kernel';
 			package: 'SOUL-EvalPrintLoop';
-			package: 'SOUL-Parsers';
+			package: 'SOUL-Parsers' with: [ spec requires: #( 'SmaCC' ) ];
 			package: 'SOUL-GrammarClauses';
 			package: 'SOUL-GrammarTerms';
 			package: 'SOUL-NativeClauses';
 			package: 'SOUL-Repositories';
-			package: 'SOUL-SmalltalkSymbiosis'
-			.
+			package: 'SOUL-SmalltalkSymbiosis';
+			package: 'SOUL-LogicPrimitives' with: [ spec requires: #('SOUL-Parsers') ];
+			package: 'SOUL-Tests' with: [  spec requires: #('SOUL-Kernel' 'SOUL-LogicPrimitives') ].
 			
 		spec
 			group: 'default' 
-			with: #('SOUL-Kernel' 'SOUL-EvalPrintLoop' 'SOUL-Parsers' 'SOUL-GrammarClauses' 'SOUL-GrammarTerms' 'SOUL-NativeClauses' 'SOUL-Repositories' 'SOUL-SmalltalkSymbiosis').
+			with: #('SOUL-Kernel' 'SOUL-EvalPrintLoop' 'SOUL-Parsers' 'SOUL-GrammarClauses' 'SOUL-GrammarTerms' 'SOUL-NativeClauses' 'SOUL-Repositories' 'SOUL-SmalltalkSymbiosis' 'SOUL-LogicPrimitives').
+		
+		spec 
+			group: 'development'
+			with: #('default' 'SOUL-Tests')
 			
-		"	 with: [ spec requires: #('Citezen-Model' 'SmaCC')];
-			package: 'Citezen-Rendering' with: [ spec requires: 'Citezen-Model' ];
-			package: 'Citezen-Tools' with: [ spec requires: 'Citezen-Model' ];
-			package: 'Citezen-Query' with: [ spec requires: 'Citezen-Model'];
-			package: 'Citezen-Reborn' with: [spec requires: 'Citezen-Model'];
-			package: 'Citezen-Checking' with: [ spec requires: 'Citezen-Model' ];
-			package: 'Citezen-Stef' with: [ spec requires: 'Citezen-Reborn' ];
-			package: 'Citezen-Tests' with: [ spec requires: #('Core') ].
-			
-		spec
-			group: 'default' with: #('CoreAndTests');
-			group: 'CoreAndTests' with: #('Core' 'Tests');
-			group: 'Core' with: #('Citezen-Model'
-							 'Citezen-Parsers'
-							 'Citezen-Rendering'
-							 'Citezen-Query'
-							 'Citezen-Checking'
-							 'Citezen-Reborn'
-							 'Citezen-Tools'
-							'Citezen-Stef'
-							);
-			group: 'Tests' with: #('Citezen-Tests')
-	]"

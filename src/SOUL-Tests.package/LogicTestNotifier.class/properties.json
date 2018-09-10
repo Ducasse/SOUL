@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SOUL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"outputStream"
+	],
+	"name" : "LogicTestNotifier",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SOUL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IsDetailedTimed",
+		"IsSelectorTimed",
+		"LogicTimer"
+	],
+	"instvars" : [
+		"currentTotal"
+	],
+	"name" : "LogicTests",
+	"type" : "normal"
+}

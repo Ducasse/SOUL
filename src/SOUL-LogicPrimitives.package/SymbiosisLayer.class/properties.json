@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LogicPrimitives",
+	"category" : "SOUL-LogicPrimitives",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SymbiosisLayer",
+	"type" : "normal"
+}

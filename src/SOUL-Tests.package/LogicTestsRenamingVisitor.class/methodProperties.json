@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"rewrite:in:" : "sp 24/10/11 15:26",
+		"acceptMessageNode:" : "AndyKellens 11/2/2011 09:53",
+		"rewriteAllTests" : "sp 24/10/11 15:26",
+		"compoundTermRenamingVisitor:" : "sp 24/10/11 15:26"
+	},
+	"class" : {
+		"rewriteAllTestsWith:" : "sp 24/10/11 15:26"
+	}
+}

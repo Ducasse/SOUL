@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testNotTransformations" : "AndyKellens 11/2/2011 09:53",
+		"testCasesFromPaper" : "AndyKellens 11/3/2011 10:59",
+		"testCasesFromXSB" : "AndyKellens 11/2/2011 09:53",
+		"testBasicTransformations" : "AndyKellens 11/2/2011 09:53",
+		"testSLGEquivalence" : "AndyKellens 11/2/2011 09:53"
+	},
+	"class" : {
+		"new" : "sp 24/10/11 15:26"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"callTermVisit:" : " 9/10/2018 14:48:32",
+		"database:" : " 9/10/2018 14:48:32",
+		"multiPartFunctorVisit:" : " 9/10/2018 14:48:32",
+		"unaryMessageFunctorVisit:" : " 9/10/2018 14:48:32",
+		"objectVisit:" : " 9/10/2018 14:48:32",
+		"resultMessageTermVisit:" : " 9/10/2018 14:48:32",
+		"keywordFunctorVisit:" : " 9/10/2018 14:48:32",
+		"messageFunctorVisit:" : " 9/10/2018 14:48:32",
+		"compoundVisit:" : " 9/10/2018 14:48:32",
+		"constantVisit:" : " 9/10/2018 14:48:32",
+		"smalltalkTermVisit:" : " 9/10/2018 14:48:32"
+	},
+	"class" : {
+		"on:" : " 9/10/2018 14:48:32"
+	}
+}

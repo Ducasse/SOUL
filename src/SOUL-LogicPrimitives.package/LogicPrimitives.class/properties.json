@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LogicStorage",
+	"category" : "SOUL-LogicPrimitives",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LogicPrimitives",
+	"type" : "normal"
+}

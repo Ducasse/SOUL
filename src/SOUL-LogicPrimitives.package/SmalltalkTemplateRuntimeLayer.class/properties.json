@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "QuotedParseLayer",
+	"category" : "SOUL-LogicPrimitives",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SmalltalkTemplateRuntimeLayer",
+	"type" : "normal"
+}

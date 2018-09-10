@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestClauses",
+	"category" : "SOUL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestClauses1",
+	"type" : "normal"
+}

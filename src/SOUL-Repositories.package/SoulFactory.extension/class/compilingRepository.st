@@ -3,7 +3,7 @@ compilingRepository
 	
 	| rep |
 	^Repositories
-		at: #compiling
+		at: #compiling 
 		ifAbsentPut:
 			[rep := SoulFactory current makeRepository new.
 			rep loadLayer: QuotedParseLayer.

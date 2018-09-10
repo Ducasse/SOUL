@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"fact1M1" : "sp 24/10/11 15:26",
+		"fact3M1" : "sp 24/10/11 15:26",
+		"findalltestM2" : "sp 24/10/11 15:26",
+		"fact2M1" : "sp 24/10/11 15:26",
+		"fooXbaarXM3" : "sp 24/10/11 15:26",
+		"fooXbarXselXM3" : "sp 24/10/11 15:26",
+		"fooXbarXtestXM3" : "sp 24/10/11 15:26",
+		"metaFactM1" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

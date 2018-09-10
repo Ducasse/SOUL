@@ -1,0 +1,6 @@
+soul auto saved
+removeAuxM3
+
+removeAux(<?X|?L>,?X,?L).
+removeAux(<?Y|?L1>,?X,<?Y|?L2>) if 
+	not(equals(?X,?Y)),removeAux(?L1,?X,?L2)

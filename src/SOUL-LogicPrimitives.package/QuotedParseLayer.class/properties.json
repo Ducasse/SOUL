@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LogicStorage",
+	"category" : "SOUL-LogicPrimitives",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "QuotedParseLayer",
+	"type" : "normal"
+}

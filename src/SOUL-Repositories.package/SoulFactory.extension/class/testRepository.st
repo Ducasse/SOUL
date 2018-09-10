@@ -10,6 +10,4 @@ testRepository
 			LogicPrimitives allSubclasses do: [:cl | rep loadLayer: cl].
 			rep loadLayer: TestQueriesLayer.
 			TestQueriesLayer allSubclasses do: [:cl | rep loadLayer: cl].	"self processWaitList."
-			rep loadLayer: SmalltalkReasoning.
-			SmalltalkReasoning allSubclasses do: [:cl | rep loadLayer: cl].
 			rep ]

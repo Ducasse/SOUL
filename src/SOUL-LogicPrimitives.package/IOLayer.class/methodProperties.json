@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"writeM1" : "sp 24/10/11 15:26",
+		"writeLnM1" : "sp 24/10/11 15:26",
+		"writeLstM1" : "sp 24/10/11 15:26",
+		"newlineM1" : "sp 24/10/11 15:26",
+		"writeLnLstM1" : "sp 24/10/11 15:26",
+		"writeLstLnM1" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

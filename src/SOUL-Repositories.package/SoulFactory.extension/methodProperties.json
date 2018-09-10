@@ -1,0 +1,21 @@
+{
+	"instance" : { },
+	"class" : {
+		"parsingRepository" : " 9/10/2018 14:48:32",
+		"testRepository" : "AndyKellens 9/10/2018 14:58",
+		"doAfterRepositoryLoad:" : " 9/10/2018 14:48:32",
+		"resetDefaultRepository" : " 9/10/2018 14:48:32",
+		"repositoryNames" : " 9/10/2018 14:48:32",
+		"repositories" : " 9/10/2018 14:48:32",
+		"notifyRepositoriesDependents" : " 9/10/2018 14:48:32",
+		"compilingRepository" : "AndyKellens 9/10/2018 14:53",
+		"transparentSymbiosisRepository" : " 9/10/2018 14:48:32",
+		"removeRepositoriesDependent:" : " 9/10/2018 14:48:32",
+		"removeRepository:" : " 9/10/2018 14:48:32",
+		"logicRepository" : " 9/10/2018 14:48:32",
+		"repository:" : " 9/10/2018 14:48:32",
+		"addRepositoriesDependent:" : " 9/10/2018 14:48:32",
+		"repository:put:" : " 9/10/2018 14:48:32",
+		"initializeRepositories" : " 9/10/2018 14:48:32"
+	}
+}

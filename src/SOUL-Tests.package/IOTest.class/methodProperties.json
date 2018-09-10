@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testwriteLstLn" : "sp 24/10/11 15:26",
+		"testnewline" : "sp 24/10/11 15:26",
+		"testwrite" : "sp 24/10/11 15:26",
+		"testwriteLst" : "sp 24/10/11 15:26",
+		"testwriteLnLst" : "sp 24/10/11 15:26",
+		"testwriteLn" : "sp 24/10/11 15:26",
+		"testprologoutput" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

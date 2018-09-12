@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"clauseNotFoundIn:inEnv:startAt:" : " 9/12/2018 10:22:21",
+		"callRepositoryInEnv:startAt:" : " 9/12/2018 10:22:21",
+		"normalterm" : " 9/12/2018 10:22:21",
+		"variable:term:" : " 9/12/2018 10:22:21",
+		"isCallTerm" : " 9/12/2018 10:22:21",
+		"variable" : " 9/12/2018 10:22:21",
+		"printForCompileOn:" : " 9/12/2018 10:22:21",
+		"asNormalTerm" : " 9/12/2018 10:22:21",
+		"resolveIn:startAt:" : " 9/12/2018 10:22:21",
+		"printOn:" : " 9/12/2018 10:22:21",
+		"multiplicity" : " 9/12/2018 10:22:21",
+		"definitionRepository:" : " 9/12/2018 10:22:21",
+		"usesPredicate:multiplicity:" : " 9/12/2018 10:22:21",
+		"accept:" : " 9/12/2018 10:22:21",
+		"predicateInEnv:startAt:" : " 9/12/2018 10:22:21",
+		"predicate" : " 9/12/2018 10:22:21",
+		"dynamicPredicate:inEnv:startAt:" : " 9/12/2018 10:22:21"
+	},
+	"class" : {
+		"variable:term:" : " 9/12/2018 10:22:21"
+	}
+}

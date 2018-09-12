@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"templateQueryTermVisit:" : " 9/12/2018 10:22:20",
+		"nativeClauseVisit:" : " 9/12/2018 10:22:20",
+		"termSequenceVisit:" : " 9/12/2018 10:22:20",
+		"smalltalkTermVisit:" : " 9/12/2018 10:22:20",
+		"keywordFunctorVisit:" : " 9/12/2018 10:22:20",
+		"underscoreVariableVisit:" : " 9/12/2018 10:22:20",
+		"queryVisit:" : " 9/12/2018 10:22:20",
+		"callTermVisit:" : " 9/12/2018 10:22:20",
+		"cutVisit:" : " 9/12/2018 10:22:20",
+		"visitAnnotatedTerm:" : " 9/12/2018 10:22:20",
+		"ruleVisit:" : " 9/12/2018 10:22:20",
+		"compoundVisit:" : " 9/12/2018 10:22:20",
+		"quotedCodeTermVisit:" : " 9/12/2018 10:22:20",
+		"delayedVariableVisit:" : " 9/12/2018 10:22:20",
+		"factVisit:" : " 9/12/2018 10:22:20",
+		"variableVisit:" : " 9/12/2018 10:22:20",
+		"resultMessageTermVisit:" : " 9/12/2018 10:22:20",
+		"objectVisit:" : " 9/12/2018 10:22:20",
+		"unaryMessageFunctorVisit:" : " 9/12/2018 10:22:20",
+		"multiPartFunctorVisit:" : " 9/12/2018 10:22:20",
+		"messageFunctorVisit:" : " 9/12/2018 10:22:20",
+		"constantVisit:" : " 9/12/2018 10:22:20"
+	},
+	"class" : { }
+}

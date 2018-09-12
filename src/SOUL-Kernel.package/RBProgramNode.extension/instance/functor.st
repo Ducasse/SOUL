@@ -1,4 +1,4 @@
 *SOUL-Kernel
 functor
 	
-	^self class name soulUp
+	^ self class name soulUp

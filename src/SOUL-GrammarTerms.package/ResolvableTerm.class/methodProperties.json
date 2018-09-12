@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"lexicalAddress" : " 9/12/2018 10:22:21",
+		"lexicalAddressInEnv:startAt:ifAbsent:" : " 9/12/2018 10:22:21",
+		"lexicalAddress:" : " 9/12/2018 10:22:21",
+		"lexicalAddressInEnv:startAt:repository:ifAbsent:" : " 9/12/2018 10:22:21",
+		"dynamicPredicate:inEnv:startAt:" : " 9/12/2018 10:22:21",
+		"resolveIn:startAt:" : " 9/12/2018 10:22:21",
+		"clauseNotFoundIn:inEnv:startAt:" : " 9/12/2018 10:22:21"
+	},
+	"class" : { }
+}

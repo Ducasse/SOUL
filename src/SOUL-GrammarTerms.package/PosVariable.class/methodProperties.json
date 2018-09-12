@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"unifyWith:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithVariable:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"printOn:" : " 9/12/2018 10:22:21",
+		"prettyPrintOn:scope:" : " 9/12/2018 10:22:21",
+		"unifyWithUnderscoreVariable:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21"
+	},
+	"class" : { }
+}

@@ -7,7 +7,7 @@ unifyWithVariable: aVariable inEnv: anEnv myIndex: myIndex hisIndex: hisIndex in
 	^(myAst := astlink soulDownIn: anEnv startAt: myIndex) class ==
 			UppedASTObject
 		ifTrue:
-			[self halt.
+			[
 			aVariable
 				unifyWithUppedASTObject: myAst
 				inEnv: anEnv

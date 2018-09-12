@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"nativeClauseVisit:" : " 9/12/2018 10:22:20",
+		"doBlock:" : " 9/12/2018 10:22:20",
+		"delayedVariableVisit:" : " 9/12/2018 10:22:20",
+		"underscoreVariableVisit:" : " 9/12/2018 10:22:20",
+		"smalltalkTermVisit:" : " 9/12/2018 10:22:20",
+		"templateQueryTermVisit:" : " 9/12/2018 10:22:20",
+		"variableVisit:" : " 9/12/2018 10:22:20"
+	},
+	"class" : {
+		"doBlock:" : " 9/12/2018 10:22:20"
+	}
+}

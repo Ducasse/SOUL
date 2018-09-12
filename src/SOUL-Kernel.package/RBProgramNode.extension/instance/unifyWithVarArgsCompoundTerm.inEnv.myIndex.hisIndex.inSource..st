@@ -26,7 +26,7 @@ unifyWithVarArgsCompoundTerm: aCompound inEnv: anEnv myIndex: sourceIndex hisInd
 						do:
 							[:index | 
 							((aCompound termSequence terms at: index)
-								unifyWith: (self cachedSoulChildren at: index)
+								unifyWith: (self reifiedSoulChildren at: index)
 								inEnv: anEnv
 								myIndex: targetIndex
 								hisIndex: sourceIndex

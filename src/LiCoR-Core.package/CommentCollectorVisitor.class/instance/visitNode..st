@@ -1,7 +1,5 @@
 visiting
 visitNode: node
-	
-	node comments
-		do:
-			[:commentSourceInterval | comments add: (self commentContentIn: node for: commentSourceInterval)].
-	^super visitNode: node
+
+	node comments do: [ :commentNode | comments add: commentNode contents ].
+	^ super visitNode: node

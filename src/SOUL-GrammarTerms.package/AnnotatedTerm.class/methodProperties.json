@@ -1,0 +1,39 @@
+{
+	"instance" : {
+		"isConstantFunctor" : " 9/12/2018 10:22:21",
+		"accept:" : " 9/12/2018 10:22:21",
+		"recursiveDefinitionRepository:" : " 9/12/2018 10:22:21",
+		"innerTerm" : " 9/12/2018 10:22:21",
+		"term" : " 9/12/2018 10:22:21",
+		"predicateInEnv:startAt:" : " 9/12/2018 10:22:21",
+		"term:" : " 9/12/2018 10:22:21",
+		"term:annotation:" : " 9/12/2018 10:22:21",
+		"transitiveLookupIn:startAt:" : " 9/12/2018 10:22:21",
+		"unifyWithVariable:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"isIndexable" : " 9/12/2018 10:22:21",
+		"isUnaryMessageFunctor" : " 9/12/2018 10:22:21",
+		"predicate" : " 9/12/2018 10:22:21",
+		"isNative" : " 9/12/2018 10:22:21",
+		"multiplicity" : " 9/12/2018 10:22:21",
+		"unifyWith:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"lexicalAddressInEnv:startAt:ifAbsent:" : " 9/12/2018 10:22:21",
+		"annotation" : " 9/12/2018 10:22:21",
+		"resolveIn:startAt:" : " 9/12/2018 10:22:21",
+		"usesPredicate:multiplicity:" : " 9/12/2018 10:22:21",
+		"unifyWithCompoundTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"isVariable" : " 9/12/2018 10:22:21",
+		"unifyWithAnnotatedTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"isCallTerm" : " 9/12/2018 10:22:21",
+		"functor" : " 9/12/2018 10:22:21",
+		"isAnnotatedTerm" : " 9/12/2018 10:22:21",
+		"isMessageFunctor" : " 9/12/2018 10:22:21",
+		"printOn:" : " 9/12/2018 10:22:21",
+		"printForCompileOn:" : " 9/12/2018 10:22:21",
+		"isKeywordFunctor" : " 9/12/2018 10:22:21",
+		"prettyPrintOn:scope:" : " 9/12/2018 10:22:21",
+		"doesNotUnderstand:" : " 9/12/2018 10:22:21"
+	},
+	"class" : {
+		"term:annotation:" : " 9/12/2018 10:22:21"
+	}
+}

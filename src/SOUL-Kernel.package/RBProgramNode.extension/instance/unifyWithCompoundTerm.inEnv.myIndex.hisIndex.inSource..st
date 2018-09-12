@@ -1,7 +1,8 @@
 *SOUL-Kernel
 unifyWithCompoundTerm: aCompound inEnv: anEnv myIndex: sourceIndex hisIndex: targetIndex inSource: inSource
-	
-	^(self functor
+
+	^ 
+	 (self functor
 		unifyWith: aCompound functor
 		inEnv: anEnv
 		myIndex: sourceIndex
@@ -13,7 +14,7 @@ unifyWithCompoundTerm: aCompound inEnv: anEnv myIndex: sourceIndex hisIndex: tar
 					[:otherTerm :i | 
 					(otherTerm isKindOf: UnderscoreVariable)
 						ifFalse:
-							[((self cachedSoulChildren at: i) unifyWith: otherTerm inEnv: anEnv
+							[((self reifiedSoulChildren at: i) unifyWith: otherTerm inEnv: anEnv
 								myIndex: sourceIndex hisIndex: targetIndex inSource: inSource)
 								ifFalse: [^false]]].
 			true]

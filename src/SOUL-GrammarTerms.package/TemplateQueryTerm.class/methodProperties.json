@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"recursiveDefinitionRepository:" : " 9/12/2018 10:22:21",
+		"parse" : " 9/12/2018 10:22:21",
+		"parsetrees" : " 9/12/2018 10:22:21",
+		"accept:" : " 9/12/2018 10:22:21",
+		"asParseTrees" : " 9/12/2018 10:22:21",
+		"transitiveLookupIn:startAt:" : " 9/12/2018 10:22:21",
+		"type" : " 9/12/2018 10:22:21",
+		"type:" : " 9/12/2018 10:22:21",
+		"asQueries" : " 9/12/2018 10:22:21",
+		"source:variables:content:block:parsetrees:queries:type:" : " 9/12/2018 10:22:21",
+		"soulDownIn:startAt:" : " 9/12/2018 10:22:21",
+		"queries" : " 9/12/2018 10:22:21",
+		"associationsForConversionQueryString" : " 9/12/2018 10:22:21",
+		"resolveIn:startAt:" : " 9/12/2018 10:22:21",
+		"conversionQueryStringForParseTree:" : " 9/12/2018 10:22:21",
+		"printOn:" : " 9/12/2018 10:22:21",
+		"printForCompileOn:" : " 9/12/2018 10:22:21",
+		"prettyPrintOn:scope:" : " 9/12/2018 10:22:21",
+		"hasInterpretationArgument" : " 9/12/2018 10:22:21"
+	},
+	"class" : {
+		"source:type:" : " 9/12/2018 10:22:21",
+		"source:variables:content:block:parsetrees:queries:type:" : " 9/12/2018 10:22:21"
+	}
+}

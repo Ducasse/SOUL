@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"expandStack:" : " 9/12/2018 10:22:20",
+		"callStack" : " 9/12/2018 10:22:20",
+		"step" : " 9/12/2018 10:22:20",
+		"evalQuery:inEnv:startAt:" : " 9/12/2018 10:22:20",
+		"evalTermApplication:inEnv:" : " 9/12/2018 10:22:20",
+		"next" : " 9/12/2018 10:22:20",
+		"evalQuery:" : " 9/12/2018 10:22:20"
+	},
+	"class" : { }
+}

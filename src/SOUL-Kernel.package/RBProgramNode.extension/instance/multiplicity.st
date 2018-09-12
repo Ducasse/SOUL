@@ -1,4 +1,4 @@
 *SOUL-Kernel
 multiplicity
 	
-	^self cachedSoulChildren size
+	^self reifiedSoulChildren size

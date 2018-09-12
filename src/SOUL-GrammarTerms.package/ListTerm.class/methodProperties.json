@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"accept:" : " 9/12/2018 10:22:21",
+		"unifyWithQuotedCodeTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithSmalltalkTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithUppedASTObject:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithUppedObject:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithVarArgsCompoundTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"unifyWithVariable:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"astLink:" : " 9/12/2018 10:22:21",
+		"transitiveLookupIn:startAt:" : " 9/12/2018 10:22:21",
+		"unifyWithResultMessageTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"soulDownIn:startAt:" : " 9/12/2018 10:22:21",
+		"ListTermFunctor" : " 9/12/2018 10:22:21",
+		"prettyListPrintOn:scope:" : " 9/12/2018 10:22:21",
+		"listPrintOn:" : " 9/12/2018 10:22:21",
+		"unifyWith:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"makeListCompound:" : " 9/12/2018 10:22:21",
+		"collectIn:startAt:" : " 9/12/2018 10:22:21",
+		"unifyWithListTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"resolveIn:startAt:" : " 9/12/2018 10:22:21",
+		"unifyWithCompoundTerm:inEnv:myIndex:hisIndex:inSource:" : " 9/12/2018 10:22:21",
+		"addChildrenInitial:" : " 9/12/2018 10:22:21",
+		"printAsPrologListOn:scope:in:startAt:" : " 9/12/2018 10:22:21",
+		"setFunctor:setTermSequence:" : " 9/12/2018 10:22:21",
+		"printOn:" : " 9/12/2018 10:22:21",
+		"printAsPrologOn:scope:in:startAt:" : " 9/12/2018 10:22:21",
+		"listDo:" : " 9/12/2018 10:22:21",
+		"asDCGConditionFor:" : " 9/12/2018 10:22:21",
+		"prettyPrintOn:scope:" : " 9/12/2018 10:22:21"
+	},
+	"class" : {
+		"newFromCollection:" : " 9/12/2018 10:22:21",
+		"ListTermFunctor" : " 9/12/2018 10:22:21",
+		"termSequence:" : " 9/12/2018 10:22:21"
+	}
+}

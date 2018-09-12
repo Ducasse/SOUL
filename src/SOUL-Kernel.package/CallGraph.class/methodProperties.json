@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"getIndex:" : " 9/12/2018 10:22:20",
+		"processClause:" : " 9/12/2018 10:22:20",
+		"processTerm:fromClause:" : " 9/12/2018 10:22:20",
+		"isTermConnected:withClause:" : " 9/12/2018 10:22:20",
+		"withClauses:" : " 9/12/2018 10:22:20",
+		"processComplexTerm:fromClause:" : " 9/12/2018 10:22:20",
+		"getAllConnected:" : " 9/12/2018 10:22:20",
+		"processClauses:" : " 9/12/2018 10:22:20",
+		"getConnected:with:" : " 9/12/2018 10:22:20",
+		"isClauseConnected:with:visited:" : " 9/12/2018 10:22:20",
+		"initializeNodesWith:" : " 9/12/2018 10:22:20",
+		"isConnected:withClause:" : " 9/12/2018 10:22:20"
+	},
+	"class" : {
+		"withClauses:" : " 9/12/2018 10:22:20"
+	}
+}

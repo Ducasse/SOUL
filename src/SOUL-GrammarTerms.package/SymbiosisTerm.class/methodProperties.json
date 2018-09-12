@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"variables" : " 9/12/2018 10:22:21",
+		"evaluateIn:startAt:" : " 9/12/2018 10:22:21",
+		"asDCGConditionFor:" : " 9/12/2018 10:22:21",
+		"compilerForSmalltalkTermBlocks" : " 9/12/2018 10:22:21",
+		"isSLGEquivalentToSymbiosisTerm:" : " 9/12/2018 10:22:21",
+		"source:variables:content:block:" : " 9/12/2018 10:22:21",
+		"source:" : " 9/12/2018 10:22:21",
+		"variablesIncludingNils" : " 9/12/2018 10:22:21",
+		"prettyPrintOn:scope:" : " 9/12/2018 10:22:21",
+		"constructBlock" : " 9/12/2018 10:22:21",
+		"parse" : " 9/12/2018 10:22:21",
+		"block" : " 9/12/2018 10:22:21",
+		"content" : " 9/12/2018 10:22:21",
+		"parseVariables" : " 9/12/2018 10:22:21",
+		"isSLGEquivalentTo:" : " 9/12/2018 10:22:21",
+		"source" : " 9/12/2018 10:22:21"
+	},
+	"class" : {
+		"source:variables:content:block:" : " 9/12/2018 10:22:21",
+		"source:" : " 9/12/2018 10:22:21"
+	}
+}

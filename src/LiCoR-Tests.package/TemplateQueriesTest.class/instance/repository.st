@@ -1,4 +1,4 @@
 Private
 repository
 	
-	^SoulFactory repository:#'LiCoR-Smalltalk'
+	^ SoulFactory liCorRepository

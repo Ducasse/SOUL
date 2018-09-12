@@ -23,7 +23,7 @@ testIsProtocolInClass2
 	self processQuery: ' if fails(?protocol isProtocolInClass: foo)'
 		description:
 			'Does this predicate fail when given the wrong kind of parameters?'.
-	self processQuery: ' if fails(foo isProtocolInClass: ?class)' description:
+	self processQuery: ' if fails(theprotocolthatshouldnotexist isProtocolInClass: ?class)' description:
 			'Does this predicate fail when given the wrong kind of parameters?'.
 	self processQuery: ' if fails(foo isProtocolInClass: foo)' description:
 			'Does this predicate fail when given the wrong kind of parameters?'

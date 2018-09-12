@@ -1,13 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Compiler",
+	"super" : "OpalCompiler",
 	"category" : "SOUL-Parsers",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"endOfLastToken"
-	],
+	"instvars" : [ ],
 	"name" : "SoulMethodCompiler",
 	"type" : "normal"
 }

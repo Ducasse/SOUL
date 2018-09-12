@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Compiler",
+	"super" : "OpalCompiler",
 	"category" : "SOUL-SmalltalkSymbiosis",
 	"classinstvars" : [ ],
 	"pools" : [ ],

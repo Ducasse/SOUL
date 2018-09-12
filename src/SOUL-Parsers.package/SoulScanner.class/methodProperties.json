@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"quoted" : " 9/12/2018 12:11:33",
+		"scanForTokenX4" : " 9/12/2018 12:11:33",
+		"comment" : " 9/12/2018 12:11:33",
+		"errorTokenId" : " 9/12/2018 12:11:33",
+		"scanForTokenX9" : " 9/12/2018 12:11:33",
+		"scanForTokenX2" : " 9/12/2018 12:11:33",
+		"emptySymbolTokenId" : " 9/12/2018 12:11:33",
+		"innerScanUpTo:ignore:" : " 9/12/2018 12:11:33",
+		"scanForTokenX7" : " 9/12/2018 12:11:33",
+		"giveAndWipeComment" : " 9/12/2018 12:11:33",
+		"quotedId" : " 9/12/2018 12:11:33",
+		"scanForTokenX5" : " 9/12/2018 12:11:33",
+		"scanForToken" : " 9/12/2018 12:11:33",
+		"sttermId" : " 9/12/2018 12:11:33",
+		"stterm" : " 9/12/2018 12:11:33",
+		"scanForTokenX3" : " 9/12/2018 12:11:33",
+		"scanUpTo:ignore:" : " 9/12/2018 12:11:33",
+		"scanForTokenX8" : " 9/12/2018 12:11:33",
+		"scanForTokenX1" : " 9/12/2018 12:11:33",
+		"scanForTokenX10" : " 9/12/2018 12:11:33",
+		"scanForTokenX6" : " 9/12/2018 12:11:33",
+		"tokenActions" : " 9/12/2018 12:11:33"
+	},
+	"class" : {
+		"initializeKeywordMap" : " 9/12/2018 12:11:33"
+	}
+}

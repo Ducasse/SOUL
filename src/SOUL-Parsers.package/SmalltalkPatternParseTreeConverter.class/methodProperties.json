@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"processMultiArgumentSelector:" : " 9/12/2018 12:11:33",
+		"environment" : " 9/12/2018 12:11:33",
+		"processSelector:" : " 9/12/2018 12:11:33",
+		"skipNonAlphabeticCharacters:" : " 9/12/2018 12:11:33",
+		"processMultiArguments:" : " 9/12/2018 12:11:33",
+		"processSelectorVariable:" : " 9/12/2018 12:11:33",
+		"acceptMethodNode:" : " 9/12/2018 12:11:33",
+		"acceptVariableNode:" : " 9/12/2018 12:11:33",
+		"processPatternMethodNode:" : " 9/12/2018 12:11:33",
+		"processArguments:" : " 9/12/2018 12:11:33",
+		"processArgument:" : " 9/12/2018 12:11:33",
+		"environment:" : " 9/12/2018 12:11:33",
+		"processPatternMessageNode:" : " 9/12/2018 12:11:33",
+		"processSingleArgumentSelector:" : " 9/12/2018 12:11:33",
+		"processKeyword:" : " 9/12/2018 12:11:33",
+		"processPatternVariable:" : " 9/12/2018 12:11:33",
+		"acceptMessageNode:" : " 9/12/2018 12:11:33"
+	},
+	"class" : {
+		"inEnvironment:" : " 9/12/2018 12:11:33"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LiCoRTests",
+	"category" : "LiCoR-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PackagingReificationTests",
+	"type" : "normal"
+}

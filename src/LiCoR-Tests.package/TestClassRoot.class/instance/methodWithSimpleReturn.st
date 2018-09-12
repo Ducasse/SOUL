@@ -1,0 +1,4 @@
+traversal
+methodWithSimpleReturn
+	
+	^1

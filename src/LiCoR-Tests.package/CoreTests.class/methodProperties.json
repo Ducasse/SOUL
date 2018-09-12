@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testRbParseTree" : "sp 24/10/11 15:26",
+		"testReferencesClass" : "AndyKellens 11/2/2011 09:53",
+		"testIsAbstractFailing" : "sp 24/10/11 15:26",
+		"methodForClass:selector:" : "sp 24/10/11 15:26",
+		"testMessagesSent" : "sp 24/10/11 15:26",
+		"zork" : "AndyKellens 11/2/2011 09:53",
+		"testAllSourceComments" : "sp 24/10/11 15:26",
+		"testIsAbstractSucceeding" : "sp 24/10/11 15:26",
+		"testIsAbstract" : "sp 24/10/11 15:26",
+		"testCreation" : "sp 24/10/11 15:26",
+		"testClassReferences" : "AndyKellens 11/2/2011 09:53"
+	},
+	"class" : { }
+}

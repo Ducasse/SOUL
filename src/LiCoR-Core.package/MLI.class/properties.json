@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LiCoR-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"RunningMLIs"
+	],
+	"instvars" : [ ],
+	"name" : "MLI",
+	"type" : "normal"
+}

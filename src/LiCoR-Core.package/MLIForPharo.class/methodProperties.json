@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"classesFor:" : "sp 24/10/11 15:26",
+		"isPackage:" : "AndyKellens 10/25/2011 11:39",
+		"nameForPackage:" : "AndyKellens 10/25/2011 11:39",
+		"allPackageEntities" : "AndyKellens 10/25/2011 11:38",
+		"packageForClass:" : "AndyKellens 10/25/2011 13:14",
+		"selectorsOfClass:whichRead:" : "AndyKellens 10/25/2011 11:12",
+		"smalltalkMethodClass" : "AndyKellens 10/25/2011 13:11",
+		"allBaseClassEntities" : "sp 24/10/11 15:26",
+		"isClass:inPackage:" : "AndyKellens 10/25/2011 13:39",
+		"allParcelEntities" : "AndyKellens 10/25/2011 11:38",
+		"allBundleEntities" : "AndyKellens 10/25/2011 11:33",
+		"allNamespaceEntities" : "AndyKellens 10/25/2011 11:37",
+		"isNameSpace:" : "AndyKellens 10/25/2011 11:39",
+		"allMethodEntities" : "AndyKellens 10/25/2011 11:04",
+		"allCategoryEntities" : "AndyKellens 10/25/2011 11:37",
+		"categoryForClass:" : "AndyKellens 10/25/2011 13:32",
+		"annotationsOfMethod:" : "AndyKellens 10/25/2011 14:08",
+		"classesInPackage:" : "AndyKellens 10/25/2011 13:07"
+	},
+	"class" : {
+		"initialize" : "AndyKellens 10/25/2011 10:49"
+	}
+}

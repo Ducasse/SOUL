@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestClassRoot",
+	"category" : "LiCoR-Tests",
+	"classinstvars" : [
+		"mcivar1"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"CV1",
+		"CV2",
+		"Waiting"
+	],
+	"instvars" : [
+		"iv1",
+		"iv2",
+		"array"
+	],
+	"name" : "TestClass1",
+	"type" : "normal"
+}

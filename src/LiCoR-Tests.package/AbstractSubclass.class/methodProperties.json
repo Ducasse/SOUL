@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"initialize" : "sp 24/10/11 15:26",
+		"anAbstractMethod" : "sp 24/10/11 15:26",
+		"anotherAbstractMethod" : "sp 24/10/11 15:26"
+	},
+	"class" : {
+		"new" : "sp 24/10/11 15:26"
+	}
+}

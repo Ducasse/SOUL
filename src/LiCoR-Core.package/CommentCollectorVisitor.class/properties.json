@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "LiCoR-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"comments"
+	],
+	"name" : "CommentCollectorVisitor",
+	"type" : "normal"
+}

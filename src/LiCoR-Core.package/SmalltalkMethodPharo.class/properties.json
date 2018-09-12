@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SmalltalkMethod",
+	"category" : "LiCoR-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SmalltalkMethodPharo",
+	"type" : "normal"
+}

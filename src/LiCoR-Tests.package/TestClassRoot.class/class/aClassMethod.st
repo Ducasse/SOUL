@@ -1,0 +1,4 @@
+testing
+aClassMethod
+	
+	^self new

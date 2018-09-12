@@ -1,0 +1,3 @@
+naming
+nameForPackage: aPackage
+	^aPackage

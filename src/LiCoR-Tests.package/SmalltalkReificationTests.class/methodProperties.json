@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"testIsMethodInClass2" : "sp 24/10/11 15:26",
+		"testIsMethod1" : "sp 24/10/11 15:26",
+		"testMethodHasAnnotationWithValues3" : "sp 24/10/11 15:26",
+		"testIsInstanceVariableInClass2" : "sp 24/10/11 15:26",
+		"testIsInstanceVariableInMetaClass2" : "sp 24/10/11 15:26",
+		"testIsClassVariableInClass2" : "sp 24/10/11 15:26",
+		"testIsInstanceVariable1" : "sp 24/10/11 15:26",
+		"testMethodContainsSourceComment2" : "sp 24/10/11 15:26",
+		"testIsSourceCodeOfMethod2" : "AndyKellens 10/25/2011 13:53",
+		"testIsClassMethodInClass2" : "sp 24/10/11 15:26",
+		"testIsInstanceVariableInMetaClassChainOf2" : "sp 24/10/11 15:26",
+		"testIsParseTreeOfMethod2" : "sp 24/10/11 15:26",
+		"testIsMetaClass1" : "sp 24/10/11 15:26",
+		"testIsBaseClass1" : "AndyKellens 7/31/2012 13:08",
+		"testIsSuperclassOf2" : "sp 24/10/11 15:26",
+		"testIsInstanceVariableInClassChainOf2" : "sp 24/10/11 15:26",
+		"testIsClassVariable1" : "sp 24/10/11 15:26",
+		"testIsClass1" : "AndyKellens 7/31/2012 13:08",
+		"testIsMetaClassOf2" : "sp 24/10/11 15:26",
+		"testIsRootClass1" : "sp 24/10/11 15:26"
+	},
+	"class" : { }
+}

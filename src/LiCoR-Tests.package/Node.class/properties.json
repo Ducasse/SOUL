@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Tree",
+	"category" : "LiCoR-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Node",
+	"type" : "normal"
+}

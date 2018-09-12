@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"methodWithSend" : "sp 24/10/11 15:26",
+		"methodWithSimpleReturn" : "sp 24/10/11 15:26",
+		"complexWith:and:and:and:" : "sp 24/10/11 15:26",
+		"foo" : "sp 24/10/11 15:26",
+		"methodWithAssignment" : "sp 24/10/11 15:26",
+		"otherComplexWith:" : "sp 24/10/11 15:26",
+		"doNotOverride" : "sp 24/10/11 15:26"
+	},
+	"class" : {
+		"aClassMethod" : "sp 24/10/11 15:26"
+	}
+}

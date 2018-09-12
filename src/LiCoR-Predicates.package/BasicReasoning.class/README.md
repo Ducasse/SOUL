@@ -1,0 +1,1 @@
+This layer contains some rather primitive predicates for reasoning about source code entities and their relations. However, they are not primitive in the sense that they can be written in terms of the predicates provided by the underlying layers of Reification and ParsetreeTraversal. For this reason we define them in a separate layer.

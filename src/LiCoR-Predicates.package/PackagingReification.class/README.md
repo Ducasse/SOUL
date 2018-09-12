@@ -1,0 +1,1 @@
+PackagingReification reifies the entities that deal with packaging. Essentially this is environment-specific and not language-specific, as there are no real Smalltalk language primitives that deal with packaging.

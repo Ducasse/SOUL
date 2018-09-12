@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestClassRoot",
+	"category" : "LiCoR-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestClass5",
+	"type" : "normal"
+}

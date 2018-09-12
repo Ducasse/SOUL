@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "LiCoR-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Test"
+	],
+	"instvars" : [ ],
+	"name" : "CoreTests",
+	"type" : "normal"
+}

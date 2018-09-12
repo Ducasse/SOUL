@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "LiCoR-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parsetree",
+		"compiledMethod",
+		"selector",
+		"test"
+	],
+	"name" : "SmalltalkMethod",
+	"type" : "normal"
+}

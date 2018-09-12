@@ -1,0 +1,1 @@
+I contain the protocol for a general cache, in which it is possible to add elements under a certain key, to check whether elements/keys are contained, or to remove elements/keys

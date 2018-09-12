@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MLI",
+	"category" : "LiCoR-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MLIForSmalltalk",
+	"type" : "normal"
+}

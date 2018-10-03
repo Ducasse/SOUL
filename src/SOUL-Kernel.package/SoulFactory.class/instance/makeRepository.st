@@ -1,4 +1,0 @@
-repository
-makeRepository
-	
-	^self subclassResponsibility

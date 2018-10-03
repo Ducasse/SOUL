@@ -1,3 +1,0 @@
-generated
-startingStateForSOUL
-	^ 1

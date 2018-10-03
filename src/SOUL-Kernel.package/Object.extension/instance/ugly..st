@@ -1,4 +1,0 @@
-*SOUL-Kernel
-ugly: msg
-	
-	

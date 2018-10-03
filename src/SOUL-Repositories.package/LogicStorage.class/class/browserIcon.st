@@ -1,4 +1,0 @@
-icon
-browserIcon
-	
-	^nil

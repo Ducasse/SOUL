@@ -1,4 +1,0 @@
-private
-smalltalkMethodClass
-	
-	self subclassResponsibility

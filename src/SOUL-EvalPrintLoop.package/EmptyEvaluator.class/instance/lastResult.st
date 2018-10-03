@@ -1,4 +1,0 @@
-evaluation
-lastResult
-	
-	^self allResults

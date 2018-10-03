@@ -1,4 +1,0 @@
-private
-removeWaitingNodes
-	
-	waitingNodes removeAll

@@ -1,4 +1,0 @@
-hornClauses
-makeProgramSequence
-	
-	^self subclassResponsibility

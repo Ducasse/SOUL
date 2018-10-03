@@ -1,4 +1,0 @@
-clause generation
-generatedClauses
-	
-	^generatedClauses

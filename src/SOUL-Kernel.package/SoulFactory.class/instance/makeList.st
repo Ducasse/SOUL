@@ -1,4 +1,0 @@
-terms
-makeList
-	
-	^self subclassResponsibility

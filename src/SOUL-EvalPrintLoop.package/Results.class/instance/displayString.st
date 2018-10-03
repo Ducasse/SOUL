@@ -1,4 +1,0 @@
-printing
-displayString
-	
-	^self basicResultText

@@ -1,4 +1,0 @@
-parser
-makeMethodParser
-	
-	^self subclassResponsibility

@@ -1,4 +1,0 @@
-private
-parse
-	
-	self subclassResponsibility

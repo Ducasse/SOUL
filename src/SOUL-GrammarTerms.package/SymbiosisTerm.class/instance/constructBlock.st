@@ -1,4 +1,0 @@
-private
-constructBlock
-	
-	self subclassResponsibility

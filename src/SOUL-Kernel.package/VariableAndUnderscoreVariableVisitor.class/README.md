@@ -1,1 +1,0 @@
-I walk a Soul parse tree and apply an action on every variable (both named and underscore variables) of that tree.

@@ -1,4 +1,0 @@
-accessing
-delayedNegatedPrimitives
-	
-	^delayedNegatedPrimitives

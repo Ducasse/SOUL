@@ -1,4 +1,0 @@
-*SOUL-Kernel
-isMaybe
-	
-	^false

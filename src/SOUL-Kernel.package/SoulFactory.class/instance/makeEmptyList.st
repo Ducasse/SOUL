@@ -1,4 +1,0 @@
-terms
-makeEmptyList
-	
-	^self subclassResponsibility

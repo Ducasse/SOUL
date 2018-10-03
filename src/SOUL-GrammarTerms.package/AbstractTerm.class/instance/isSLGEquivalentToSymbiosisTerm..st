@@ -1,4 +1,0 @@
-slgtesting
-isSLGEquivalentToSymbiosisTerm: aSymbiosisTerm
-	
-	^false

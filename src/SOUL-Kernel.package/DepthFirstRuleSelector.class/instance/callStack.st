@@ -1,4 +1,0 @@
-private
-callStack
-	
-	^callstack

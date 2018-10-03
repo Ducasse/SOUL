@@ -1,4 +1,0 @@
-collection faking
-first
-	
-	^item

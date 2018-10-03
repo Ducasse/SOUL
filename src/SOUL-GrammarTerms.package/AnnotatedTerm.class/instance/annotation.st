@@ -1,4 +1,0 @@
-annotated terms
-annotation
-	
-	^annotation

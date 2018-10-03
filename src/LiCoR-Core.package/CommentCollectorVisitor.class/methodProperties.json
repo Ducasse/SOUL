@@ -1,9 +1,0 @@
-{
-	"instance" : {
-		"initialize" : "sp 24/10/11 15:26",
-		"visitTemporaryNode:" : "AndyKellens 9/12/2018 10:55",
-		"allCollectedComments" : "sp 24/10/11 15:26",
-		"visitNode:" : "AndyKellens 9/12/2018 11:03"
-	},
-	"class" : { }
-}

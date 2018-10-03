@@ -1,2 +1,0 @@
-Represents the Prolog cut.
-

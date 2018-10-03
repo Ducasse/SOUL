@@ -1,4 +1,0 @@
-visitors
-makeVariableAndUnderscoreVariableVisitor
-	
-	^self subclassResponsibility

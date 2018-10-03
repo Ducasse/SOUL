@@ -1,4 +1,0 @@
-parser
-makeParser
-	
-	^self subclassResponsibility

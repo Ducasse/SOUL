@@ -1,4 +1,0 @@
-terms
-makeCompound
-	
-	^CompoundTerm

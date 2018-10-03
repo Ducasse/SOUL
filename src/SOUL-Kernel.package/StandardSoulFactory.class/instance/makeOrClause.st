@@ -1,4 +1,0 @@
-native clauses
-makeOrClause
-	
-	^OrClause

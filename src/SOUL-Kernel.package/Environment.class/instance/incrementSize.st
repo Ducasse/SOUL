@@ -1,4 +1,0 @@
-constants
-incrementSize
-	
-	^500

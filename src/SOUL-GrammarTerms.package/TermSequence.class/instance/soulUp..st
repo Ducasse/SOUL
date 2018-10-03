@@ -1,4 +1,0 @@
-reification
-soulUp: anEnv
-	
-	^self

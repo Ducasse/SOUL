@@ -1,4 +1,0 @@
-evaluators
-evaluatorForTemplateParsing
-	
-	^self subclassResponsibility

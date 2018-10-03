@@ -1,4 +1,0 @@
-visiting terms
-variableVisit: aVariable
-	
-	

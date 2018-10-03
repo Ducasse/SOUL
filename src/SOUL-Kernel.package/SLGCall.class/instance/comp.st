@@ -1,4 +1,0 @@
-accessing
-comp
-	
-	^comp

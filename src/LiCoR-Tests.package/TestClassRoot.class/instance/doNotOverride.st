@@ -1,4 +1,0 @@
-testing
-doNotOverride
-	
-	self subclassResponsibility

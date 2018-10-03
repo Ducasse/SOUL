@@ -1,1 +1,0 @@
-This class represents the quotedcode in a logic program

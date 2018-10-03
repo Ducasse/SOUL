@@ -1,4 +1,0 @@
-resolving
-isSLGEquivalentToSmalltalkTerm: aTerm
-	
-	^false

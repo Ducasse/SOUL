@@ -1,4 +1,0 @@
-testing
-isUppedObject
-	
-	^false

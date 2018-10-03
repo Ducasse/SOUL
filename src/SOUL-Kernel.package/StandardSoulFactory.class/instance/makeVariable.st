@@ -1,4 +1,0 @@
-terms
-makeVariable
-	
-	^Variable

@@ -1,4 +1,0 @@
-terms
-makeQuotedCodeConstant
-	
-	^QuotedCodeConstant

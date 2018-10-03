@@ -1,4 +1,0 @@
-access
-innerTerm
-	
-	^term innerTerm

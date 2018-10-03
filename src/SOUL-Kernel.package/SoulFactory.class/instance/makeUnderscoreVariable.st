@@ -1,4 +1,0 @@
-terms
-makeUnderscoreVariable
-	
-	^self subclassResponsibility

@@ -1,4 +1,0 @@
-private-classes
-variableNodeClass
-	
-	^SoulRBPatternVariableNode

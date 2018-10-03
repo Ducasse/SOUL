@@ -1,4 +1,0 @@
-terms
-makeCut
-	
-	^self subclassResponsibility

@@ -1,4 +1,0 @@
-access
-normalterm
-	
-	^normalterm

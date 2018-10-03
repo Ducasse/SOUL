@@ -1,4 +1,0 @@
-testing
-isMaybe
-	
-	^true

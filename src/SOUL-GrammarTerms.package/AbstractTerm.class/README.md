@@ -1,1 +1,0 @@
-The superclass of all parsetree elements that represent SOUL logic terms.

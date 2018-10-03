@@ -1,4 +1,0 @@
-converting
-smalltalkBlockString
-	
-	^'''' , self asString , ''''

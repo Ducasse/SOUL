@@ -1,4 +1,0 @@
-evaluators
-evaluatorForTemplateCompilation
-	
-	^self subclassResponsibility

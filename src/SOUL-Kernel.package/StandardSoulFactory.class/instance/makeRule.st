@@ -1,4 +1,0 @@
-hornClauses
-makeRule
-	
-	^Rule

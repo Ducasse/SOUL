@@ -1,1 +1,0 @@
-An EmptyListConstant is the special kind of constant to denote empty (logic) lists

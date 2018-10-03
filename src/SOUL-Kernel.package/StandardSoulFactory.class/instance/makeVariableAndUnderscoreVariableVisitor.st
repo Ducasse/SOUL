@@ -1,4 +1,0 @@
-visitors
-makeVariableAndUnderscoreVariableVisitor
-	
-	^VariableAndUnderscoreVariableVisitor

@@ -1,1 +1,0 @@
-This class represents the unnamed variable in logic parsetrees

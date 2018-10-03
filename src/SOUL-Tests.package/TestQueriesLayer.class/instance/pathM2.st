@@ -1,7 +1,0 @@
-slg tests
-pathM2
-
-path(?x,?y) if 
-	edge(?x,?y).
-path(?x,?y) if 
-	edge(?x,?z),path(?z,?y)

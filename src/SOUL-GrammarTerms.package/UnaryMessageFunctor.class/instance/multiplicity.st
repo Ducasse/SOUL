@@ -1,4 +1,0 @@
-accessing
-multiplicity
-	
-	^1

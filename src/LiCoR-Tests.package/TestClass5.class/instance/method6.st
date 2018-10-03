@@ -1,4 +1,0 @@
-protocol3
-method6
-	
-	^ThisIsAGlobalVariableThatDoesNotReferenceAClass new

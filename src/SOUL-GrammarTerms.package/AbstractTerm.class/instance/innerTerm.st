@@ -1,4 +1,0 @@
-fuzzy
-innerTerm
-	
-	^self

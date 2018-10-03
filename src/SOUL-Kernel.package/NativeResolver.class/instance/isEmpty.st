@@ -1,4 +1,0 @@
-access
-isEmpty
-	
-	^pos >= argsSize

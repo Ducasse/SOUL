@@ -1,1 +1,0 @@
-This class represents logic formulas. That are logic terms having a functor (like a name) and a list of arguments.

@@ -1,4 +1,0 @@
-kernel
-makeNativeResolver
-	
-	^self subclassResponsibility

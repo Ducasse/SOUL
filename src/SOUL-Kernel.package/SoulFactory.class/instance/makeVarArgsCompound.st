@@ -1,4 +1,0 @@
-terms
-makeVarArgsCompound
-	
-	^self subclassResponsibility

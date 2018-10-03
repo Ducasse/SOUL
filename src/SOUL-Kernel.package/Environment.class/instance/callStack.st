@@ -1,4 +1,0 @@
-callStack
-callStack
-	
-	^callStack

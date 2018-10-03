@@ -1,4 +1,0 @@
-traversal
-methodWithSimpleReturn
-	
-	^1

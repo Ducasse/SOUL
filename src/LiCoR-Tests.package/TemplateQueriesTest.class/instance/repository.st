@@ -1,4 +1,0 @@
-Private
-repository
-	
-	^ SoulFactory liCorRepository

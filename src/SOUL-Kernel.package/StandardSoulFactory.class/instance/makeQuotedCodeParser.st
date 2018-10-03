@@ -1,4 +1,0 @@
-parsers
-makeQuotedCodeParser
-	
-	^QuotedCodeParser

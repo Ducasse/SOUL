@@ -1,4 +1,0 @@
-slgtesting
-isSLGEquivalentToCompoundTerm: aCompoundTerm
-	
-	^false

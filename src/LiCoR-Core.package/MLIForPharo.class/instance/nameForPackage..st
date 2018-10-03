@@ -1,3 +1,0 @@
-naming
-nameForPackage: aPackage
-	^aPackage

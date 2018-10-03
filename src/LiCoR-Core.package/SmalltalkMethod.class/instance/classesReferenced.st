@@ -1,4 +1,0 @@
-information extraction
-classesReferenced
-	
-	self subclassResponsibility

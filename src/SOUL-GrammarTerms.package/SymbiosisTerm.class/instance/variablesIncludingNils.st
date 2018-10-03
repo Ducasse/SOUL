@@ -1,4 +1,0 @@
-access
-variablesIncludingNils
-	
-	^variables

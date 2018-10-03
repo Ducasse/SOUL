@@ -1,4 +1,0 @@
-terms
-makeSmalltalkTerm
-	
-	^self subclassResponsibility

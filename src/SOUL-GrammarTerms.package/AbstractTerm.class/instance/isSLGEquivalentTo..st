@@ -1,4 +1,0 @@
-slgtesting
-isSLGEquivalentTo: aTerm
-	
-	^false

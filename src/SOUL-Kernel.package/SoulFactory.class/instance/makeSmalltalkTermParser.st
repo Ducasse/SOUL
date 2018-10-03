@@ -1,4 +1,0 @@
-parser
-makeSmalltalkTermParser
-	
-	^self subclassResponsibility

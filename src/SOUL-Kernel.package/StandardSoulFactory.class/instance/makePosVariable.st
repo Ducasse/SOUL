@@ -1,4 +1,0 @@
-terms
-makePosVariable
-	
-	^PosVariable

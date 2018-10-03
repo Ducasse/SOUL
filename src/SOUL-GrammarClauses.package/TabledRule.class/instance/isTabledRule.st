@@ -1,4 +1,0 @@
-testing
-isTabledRule
-	
-	^true

@@ -1,4 +1,0 @@
-Accessing
-repository
-	
-	^ SoulFactory liCorTestRepository

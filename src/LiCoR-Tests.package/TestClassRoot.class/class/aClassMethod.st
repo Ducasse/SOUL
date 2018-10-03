@@ -1,4 +1,0 @@
-testing
-aClassMethod
-	
-	^self new

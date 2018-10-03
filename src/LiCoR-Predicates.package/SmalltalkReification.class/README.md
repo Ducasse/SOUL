@@ -1,1 +1,0 @@
-SmalltalkReification reifies the real Smalltalk lanuage entities. Is not supposed to contain any environment-specific stuff.

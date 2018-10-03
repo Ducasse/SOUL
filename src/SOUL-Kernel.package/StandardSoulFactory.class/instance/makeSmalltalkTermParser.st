@@ -1,4 +1,0 @@
-parsers
-makeSmalltalkTermParser
-	
-	^SmalltalkTermParser

@@ -1,4 +1,0 @@
-accessing
-functor
-	
-	^messageTerm functor

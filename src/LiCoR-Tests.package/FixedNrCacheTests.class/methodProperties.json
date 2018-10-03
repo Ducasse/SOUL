@@ -1,9 +1,0 @@
-{
-	"instance" : {
-		"testNrCacheRemoval" : "sp 24/10/11 15:26",
-		"testBasicNrCache" : "sp 24/10/11 15:26",
-		"testResizingNrCache" : "sp 24/10/11 15:26",
-		"testNrCache" : "sp 24/10/11 15:26"
-	},
-	"class" : { }
-}

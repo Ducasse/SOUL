@@ -1,1 +1,0 @@
-This class represents a smalltalkterm in a logic program

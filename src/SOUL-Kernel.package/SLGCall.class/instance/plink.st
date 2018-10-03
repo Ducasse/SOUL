@@ -1,4 +1,0 @@
-accessing
-plink
-	
-	^plink

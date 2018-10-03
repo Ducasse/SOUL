@@ -1,4 +1,0 @@
-terms
-makeDelayedVariable
-	
-	^DelayedVariable

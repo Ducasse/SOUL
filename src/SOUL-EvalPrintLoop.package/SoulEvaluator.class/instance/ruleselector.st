@@ -1,4 +1,0 @@
-private
-ruleselector
-	
-	^ruleselector

@@ -1,4 +1,0 @@
-private
-parseVariables
-	
-	self subclassResponsibility

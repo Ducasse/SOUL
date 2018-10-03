@@ -1,4 +1,0 @@
-repository
-makeRepository
-	
-	^LogicRepository

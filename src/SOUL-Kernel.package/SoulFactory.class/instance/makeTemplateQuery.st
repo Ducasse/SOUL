@@ -1,4 +1,0 @@
-terms
-makeTemplateQuery
-	
-	^self subclassResponsibility

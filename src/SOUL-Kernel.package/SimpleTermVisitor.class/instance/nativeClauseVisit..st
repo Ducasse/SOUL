@@ -1,4 +1,0 @@
-visiting clauses
-nativeClauseVisit: aClause
-	
-	

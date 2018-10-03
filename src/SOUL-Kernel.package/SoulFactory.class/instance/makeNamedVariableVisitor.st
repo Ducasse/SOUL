@@ -1,4 +1,0 @@
-visitors
-makeNamedVariableVisitor
-	
-	^self subclassResponsibility

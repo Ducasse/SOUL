@@ -1,3 +1,0 @@
-generated
-sttermId
-	^ 27

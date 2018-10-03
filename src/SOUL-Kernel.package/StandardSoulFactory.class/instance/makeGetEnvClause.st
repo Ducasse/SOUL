@@ -1,4 +1,0 @@
-native clauses
-makeGetEnvClause
-	
-	^GetEnvClause

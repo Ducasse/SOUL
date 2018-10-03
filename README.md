@@ -11,7 +11,9 @@ Program queries can answer important software engineering questions ranging from
 
 ### How to load
 
+```smalltalk
 Metacello new
   baseline: 'SOUL';
   repository: 'github://Ducasse/SOUL/src';
   load.
+```

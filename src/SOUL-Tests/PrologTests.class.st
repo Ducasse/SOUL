@@ -16,8 +16,8 @@ PrologTests >> testMatrixTranspose [
 		'transpose(<>, <>)'.
 		'transpose(<?F|?Fs>, ?Ts) if transpose(?F, <?F|?Fs>, ?Ts)'.
 
-		'transpose(<>, ?xx, <>)'.
-		'transpose(<?x|?Rs>,?Ms, <?Ts|?Tss>) if 
+		'transpose(<>, ?, <>)'.
+		'transpose(<?|?Rs>,?Ms, <?Ts|?Tss>) if 
 			listsFirstsRests(?Ms, ?Ts, ?Ms1),
 			transpose(?Rs, ?Ms1, ?Tss)'.
 		

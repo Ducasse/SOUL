@@ -13,16 +13,16 @@ PrologTests >> testMatrixTranspose [
 	| clauses repository query result |
 
 	clauses := {
-		'transpose(<>, <>)'.
-		'transpose(<?F|?Fs>, ?Ts) if transpose(?F, <?F|?Fs>, ?Ts)'.
+		'transpose(<>, <>).
+		transpose(<?F|?Fs>, ?Ts) if transpose(?F, <?F|?Fs>, ?Ts).
 
-		'transpose(<>, ?, <>)'.
-		'transpose(<?|?Rs>,?Ms, <?Ts|?Tss>) if 
+		transpose(<>, ?, <>).
+		transpose(<?|?Rs>,?Ms, <?Ts|?Tss>) if 
 			listsFirstsRests(?Ms, ?Ts, ?Ms1),
-			transpose(?Rs, ?Ms1, ?Tss)'.
+			transpose(?Rs, ?Ms1, ?Tss).
 		
-		'listsFirstsRests(<>,<>,<>)'.
-		'listsFirstsRests(<<?F|?Os>|?Rest>, <?F|?Fs>, <?Os|?Oss>) if listsFirstsRests(?Rest, ?Fs, ?Oss)'.
+		listsFirstsRests(<>,<>,<>).
+		listsFirstsRests(<<?F|?Os>|?Rest>, <?F|?Fs>, <?Os|?Oss>) if listsFirstsRests(?Rest, ?Fs, ?Oss)'.
 	}.
 
 	query := '
@@ -67,13 +67,13 @@ PrologTests >> testSimpleVariables [
 	| clauses repository query result |
 
 	clauses := {
-		'parent(a, b)'.
-		'parent(a, c)'.
-		'parent(a, d)'.
-		'male(b)'.
-		'male(d)'.
-		'female(c)'.
-		'son(?ch, ?p) if parent(?p,?ch), male(?ch)'.
+		'parent(a, b).
+		parent(a, c).
+		parent(a, d).
+		male(b).
+		male(d).
+		female(c).
+		son(?ch, ?p) if parent(?p,?ch), male(?ch)'.
 	}.
 
 	query := '
